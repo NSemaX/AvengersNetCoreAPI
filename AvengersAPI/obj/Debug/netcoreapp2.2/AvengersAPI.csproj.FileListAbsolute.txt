@@ -1,0 +1,14 @@
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\bin\Debug\netcoreapp2.2\AvengersAPI.deps.json
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\bin\Debug\netcoreapp2.2\AvengersAPI.runtimeconfig.json
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\bin\Debug\netcoreapp2.2\AvengersAPI.runtimeconfig.dev.json
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\bin\Debug\netcoreapp2.2\AvengersAPI.dll
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\obj\Debug\netcoreapp2.2\AvengersAPI.csprojAssemblyReference.cache
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\obj\Debug\netcoreapp2.2\AvengersAPI.csproj.CoreCompileInputs.cache
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\obj\Debug\netcoreapp2.2\AvengersAPI.RazorAssemblyInfo.cache
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\obj\Debug\netcoreapp2.2\AvengersAPI.RazorAssemblyInfo.cs
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\obj\Debug\netcoreapp2.2\AvengersAPI.AssemblyInfoInputs.cache
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\obj\Debug\netcoreapp2.2\AvengersAPI.AssemblyInfo.cs
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\obj\Debug\netcoreapp2.2\AvengersAPI.RazorTargetAssemblyInfo.cache
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\bin\Debug\netcoreapp2.2\AvengersAPI.pdb
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\obj\Debug\netcoreapp2.2\AvengersAPI.dll
+C:\Users\nkudu\source\repos\AvengersAPI\AvengersAPI\obj\Debug\netcoreapp2.2\AvengersAPI.pdb
